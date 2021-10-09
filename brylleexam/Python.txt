@@ -1,0 +1,67 @@
+Room:
+
+import requests
+import json
+
+access_token = 'ZjNmMzhjNGEtNTJjMi00YjdhLWJmMzQtOTY4MTFjMjQ4YWJhYTM0ZjJmMjYtYWFh_P0A1_2bffaf5b-1d67-4374-9ac7-3ce002b07c3b'
+url = 'https://webexapis.com/v1/rooms'
+headers = {
+    'Authorization': 'Bearer {}'.format(access_token),
+    'Content-Type': 'application/json'
+}
+params = {'title': 'Python API'}
+res = requests.post(url, headers=headers, json=params)
+print(res.json())
+
+
+Members:
+
+import requests
+import json
+
+access_token = 'ZjNmMzhjNGEtNTJjMi00YjdhLWJmMzQtOTY4MTFjMjQ4YWJhYTM0ZjJmMjYtYWFh_P0A1_2bffaf5b-1d67-4374-9ac7-3ce002b07c3b'
+room_id = 'Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vYjBlYzYyMzAtMjhlYi0xMWVjLTg1MzctNzE5NmI5YTliMDNh'
+person_email = 'earl.andan53@gmail.com'
+url = 'https://webexapis.com/v1/memberships'
+headers = {
+    'Authorization': 'Bearer {}'.format(access_token),
+    'Content-Type': 'application/json'
+}
+
+params = {'roomId': room_id, 'personEmail': person_email}
+res = requests.post(url, headers=headers, json=params)
+print(res.json())
+
+import requests
+import json
+
+access_token = 'ZjNmMzhjNGEtNTJjMi00YjdhLWJmMzQtOTY4MTFjMjQ4YWJhYTM0ZjJmMjYtYWFh_P0A1_2bffaf5b-1d67-4374-9ac7-3ce002b07c3b'
+room_id = 'Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vYjBlYzYyMzAtMjhlYi0xMWVjLTg1MzctNzE5NmI5YTliMDNh'
+person_email = 'mymangie24@gmail.com'
+url = 'https://webexapis.com/v1/memberships'
+headers = {
+    'Authorization': 'Bearer {}'.format(access_token),
+    'Content-Type': 'application/json'
+}
+
+params = {'roomId': room_id, 'personEmail': person_email}
+res = requests.post(url, headers=headers, json=params)
+print(res.json())
+
+Message:
+
+import requests
+import json
+
+access_token = 'ZjNmMzhjNGEtNTJjMi00YjdhLWJmMzQtOTY4MTFjMjQ4YWJhYTM0ZjJmMjYtYWFh_P0A1_2bffaf5b-1d67-4374-9ac7-3ce002b07c3b'
+room_id = 'Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vMDYzOTgzNTAtMjhlZi0xMWVjLWEyNTUtYWY5MWJkNDQyOGQ2'
+message = 'I love API'
+url = 'https://webexapis.com/v1/messages'
+headers = {
+    'Authorization': 'Bearer {}'.format(access_token),
+    'Content-Type': 'application/json'
+}
+
+params = {'roomId': room_id, 'markdown': message}
+res = requests.post(url, headers=headers, json=params)
+print(res.json())
