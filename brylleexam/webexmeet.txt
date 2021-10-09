@@ -1,0 +1,148 @@
+Bearer Token:
+
+ZjNmMzhjNGEtNTJjMi00YjdhLWJmMzQtOTY4MTFjMjQ4YWJhYTM0ZjJmMjYtYWFh_P0A1_2bffaf5b-1d67-4374-9ac7-3ce002b07c3b
+
+COMP6
+
+
+{
+  "id": "020169515927427ca3bed3e748608996",
+  "meetingNumber": "26415589784",
+  "title": "Comp6",
+  "agenda": "COMP6 Examination",
+  "password": "7p7pPJHpGz3",
+  "phoneAndVideoSystemPassword": "77777547",
+  "meetingType": "meetingSeries",
+  "state": "active",
+  "timezone": "UTC",
+  "start": "2021-10-21T14:00:00Z",
+  "end": "2021-10-21T18:00:00Z",
+  "hostUserId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS85MWFiMjgzYy04MmIzLTQ2OWItYWM5My1jZDYxNDI4NzFjZDE",
+  "hostDisplayName": "Brylle  Marcos",
+  "hostEmail": "bryllekenji21@gmail.com",
+  "hostKey": "573612",
+  "siteUrl": "meet153.webex.com",
+  "webLink": "https://meet153.webex.com/meet153/j.php?MTID=m3868ffe3e4d925fd21d9986ca6a5d487",
+  "sipAddress": "26415589784@meet153.webex.com",
+  "dialInIpAddress": "210.4.202.4",
+  "enabledAutoRecordMeeting": true,
+  "allowAuthenticatedDevices": false,
+  "enabledJoinBeforeHost": false,
+  "joinBeforeHostMinutes": 0,
+  "enableConnectAudioBeforeHost": false,
+  "excludePassword": false,
+  "publicMeeting": false,
+  "enableAutomaticLock": false,
+  "telephony": {
+    "accessCode": "26415589784",
+    "callInNumbers": [],
+    "links": [
+      {
+        "rel": "globalCallinNumbers",
+        "href": "/v1/meetings/020169515927427ca3bed3e748608996/globalCallinNumbers",
+        "method": "GET"
+      }
+    ]
+  }
+}
+
+Invitees:
+
+{
+  "id": "020169515927427ca3bed3e748608996_3819805506",
+  "email": "earl.andan53@gmail.com",
+  "displayName": "Roland Earl Andan",
+  "coHost": false,
+  "meetingId": "020169515927427ca3bed3e748608996"
+}
+
+{
+      "id": "020169515927427ca3bed3e748608996_3819807201",
+      "email": "mymangie24@gmail.com",
+      "displayName": "Marylle Mhay",
+      "coHost": false,
+      "meetingId": "020169515927427ca3bed3e748608996"
+    }
+
+{
+  "id": "020169515927427ca3bed3e748608996_3819811351",
+  "email": "michellelobigas@gmail.com",
+  "displayName": "michellelobigas@gmail.com",
+  "coHost": false,
+  "meetingId": "020169515927427ca3bed3e748608996"
+}
+
+Deleted:
+204/ No Content
+
+API:
+
+{
+  "id": "c72ba7ca015940c08d24a52b6a3ce477",
+  "meetingNumber": "26434842990",
+  "title": "API",
+  "agenda": "COMP6 Examination",
+  "password": "VSzH2wtpg58",
+  "phoneAndVideoSystemPassword": "87942987",
+  "meetingType": "meetingSeries",
+  "state": "active",
+  "timezone": "UTC",
+  "start": "2021-10-21T15:00:00Z",
+  "end": "2021-10-21T17:00:00Z",
+  "hostUserId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS85MWFiMjgzYy04MmIzLTQ2OWItYWM5My1jZDYxNDI4NzFjZDE",
+  "hostDisplayName": "Brylle  Marcos",
+  "hostEmail": "bryllekenji21@gmail.com",
+  "hostKey": "160021",
+  "siteUrl": "meet153.webex.com",
+  "webLink": "https://meet153.webex.com/meet153/j.php?MTID=m3aa14f2e9b48a8bd8aebfd8ddc0d1f1b",
+  "sipAddress": "26434842990@meet153.webex.com",
+  "dialInIpAddress": "210.4.202.4",
+  "enabledAutoRecordMeeting": true,
+  "allowAuthenticatedDevices": false,
+  "enabledJoinBeforeHost": false,
+  "joinBeforeHostMinutes": 0,
+  "enableConnectAudioBeforeHost": false,
+  "excludePassword": false,
+  "publicMeeting": false,
+  "enableAutomaticLock": false,
+  "telephony": {
+    "accessCode": "26434842990",
+    "callInNumbers": [],
+    "links": [
+      {
+        "rel": "globalCallinNumbers",
+        "href": "/v1/meetings/c72ba7ca015940c08d24a52b6a3ce477/globalCallinNumbers",
+        "method": "GET"
+      }
+    ]
+  }
+}
+
+Invitees:
+
+{
+  "id": "c72ba7ca015940c08d24a52b6a3ce477_3819820056",
+  "email": "earl.andan53@gmail.com",
+  "displayName": "Roland Earl Andan",
+  "coHost": false,
+  "meetingId": "c72ba7ca015940c08d24a52b6a3ce477"
+}
+
+{
+  "id": "c72ba7ca015940c08d24a52b6a3ce477_3819821106",
+  "email": "mymangie24@gmail.com",
+  "displayName": "Marylle Mhay",
+  "coHost": false,
+  "meetingId": "c72ba7ca015940c08d24a52b6a3ce477"
+}
+
+ {
+      "id": "c72ba7ca015940c08d24a52b6a3ce477_3819817066",
+      "email": "michellelobigas@gmail.com",
+      "displayName": "michellelobigas@gmail.com",
+      "coHost": false,
+      "meetingId": "c72ba7ca015940c08d24a52b6a3ce477"
+    }
+
+Deleted:
+204/ No Content
