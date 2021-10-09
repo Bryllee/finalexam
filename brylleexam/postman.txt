@@ -1,0 +1,123 @@
+POSTMAN
+
+Bearer Token:
+
+ZjNmMzhjNGEtNTJjMi00YjdhLWJmMzQtOTY4MTFjMjQ4YWJhYTM0ZjJmMjYtYWFh_P0A1_2bffaf5b-1d67-4374-9ac7-3ce002b07c3b
+
+
+
+Room:
+
+{
+    "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vNjdlMzJhNzAtMjhjMi0xMWVjLWEyNTUtYWY5MWJkNDQyOGQ2",
+    "title": "COMP6 API",
+    "type": "group",
+    "isLocked": false,
+    "lastActivity": "2021-10-09T05:33:17.335Z",
+    "creatorId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS85MWFiMjgzYy04MmIzLTQ2OWItYWM5My1jZDYxNDI4NzFjZDE",
+    "created": "2021-10-09T05:33:17.335Z",
+    "ownerId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi8yYmZmYWY1Yi0xZDY3LTQzNzQtOWFjNy0zY2UwMDJiMDdjM2I"
+}
+
+Members:
+
+{
+    "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL01FTUJFUlNISVAvOWZhOTQ4NzctOGY2NC00OGJhLWI3ZGItZTJhNTlkMzJjNWNlOjY3ZTMyYTcwLTI4YzItMTFlYy1hMjU1LWFmOTFiZDQ0MjhkNg",
+    "roomId": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vNjdlMzJhNzAtMjhjMi0xMWVjLWEyNTUtYWY5MWJkNDQyOGQ2",
+    "roomType": "group",
+    "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS85ZmE5NDg3Ny04ZjY0LTQ4YmEtYjdkYi1lMmE1OWQzMmM1Y2U",
+    "personEmail": "earl.andan53@gmail.com",
+    "personDisplayName": "Roland Earl Andan",
+    "personOrgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi8yYmZmYWY1Yi0xZDY3LTQzNzQtOWFjNy0zY2UwMDJiMDdjM2I",
+    "isModerator": false,
+    "isMonitor": false,
+    "isRoomHidden": false,
+    "created": "2021-10-09T05:35:57.640Z"
+}
+
+{
+    "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL01FTUJFUlNISVAvMjRmMzcyMzktMWUzNy00ZTg4LTk0MDAtNzRkNTBlMzBjNDIxOjY3ZTMyYTcwLTI4YzItMTFlYy1hMjU1LWFmOTFiZDQ0MjhkNg",
+    "roomId": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vNjdlMzJhNzAtMjhjMi0xMWVjLWEyNTUtYWY5MWJkNDQyOGQ2",
+    "roomType": "group",
+    "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS8yNGYzNzIzOS0xZTM3LTRlODgtOTQwMC03NGQ1MGUzMGM0MjE",
+    "personEmail": "mymangie24@gmail.com",
+    "personDisplayName": "Marylle Mhay",
+    "personOrgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi8yYmZmYWY1Yi0xZDY3LTQzNzQtOWFjNy0zY2UwMDJiMDdjM2I",
+    "isModerator": false,
+    "isMonitor": false,
+    "isRoomHidden": false,
+    "created": "2021-10-09T05:37:01.045Z"
+}
+
+{
+    "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL01FTUJFUlNISVAvODQ4ZGM1ODAtODk0ZS00ZTcwLTkyNGEtYjM4ZGU0NGVhN2E1OjY3ZTMyYTcwLTI4YzItMTFlYy1hMjU1LWFmOTFiZDQ0MjhkNg",
+    "roomId": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vNjdlMzJhNzAtMjhjMi0xMWVjLWEyNTUtYWY5MWJkNDQyOGQ2",
+    "roomType": "group",
+    "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS84NDhkYzU4MC04OTRlLTRlNzAtOTI0YS1iMzhkZTQ0ZWE3YTU",
+    "personEmail": "michellelobigas@gmail.com",
+    "personDisplayName": "Michelle Lobigas",
+    "personOrgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi81OTk4ZmYwOS05YzI3LTQ0MDctODE4Zi0yMzA1NzA5ZThkNDk",
+    "isModerator": false,
+    "isMonitor": false,
+    "isRoomHidden": false,
+    "created": "2021-10-09T05:38:00.477Z"
+}
+
+{
+    "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL01FTUJFUlNISVAvM2Q5NTgzNGMtMDU1ZC00NWM5LWI5NTMtMGMwOTU0NTlmZDk3OjY3ZTMyYTcwLTI4YzItMTFlYy1hMjU1LWFmOTFiZDQ0MjhkNg",
+    "roomId": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vNjdlMzJhNzAtMjhjMi0xMWVjLWEyNTUtYWY5MWJkNDQyOGQ2",
+    "roomType": "group",
+    "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS8zZDk1ODM0Yy0wNTVkLTQ1YzktYjk1My0wYzA5NTQ1OWZkOTc",
+    "personEmail": "alyssaferrer14@gmail.com",
+    "personDisplayName": "Alyssa Ferrer",
+    "personOrgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi81OTk4ZmYwOS05YzI3LTQ0MDctODE4Zi0yMzA1NzA5ZThkNDk",
+    "isModerator": false,
+    "isMonitor": false,
+    "isRoomHidden": false,
+    "created": "2021-10-09T05:38:54.979Z"
+}
+
+{
+    "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL01FTUJFUlNISVAvYWE2ZTQ0NTUtNTNlMy00NmVlLTg1ODItNTkxNDY0YmUxYmQxOjY3ZTMyYTcwLTI4YzItMTFlYy1hMjU1LWFmOTFiZDQ0MjhkNg",
+    "roomId": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vNjdlMzJhNzAtMjhjMi0xMWVjLWEyNTUtYWY5MWJkNDQyOGQ2",
+    "roomType": "group",
+    "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9hYTZlNDQ1NS01M2UzLTQ2ZWUtODU4Mi01OTE0NjRiZTFiZDE",
+    "personEmail": "Hmp25Sjwl@gmail.com",
+    "personDisplayName": "Haidee Paulo",
+    "personOrgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi9mZmU1MGI5Ny0yYjRhLTQ5NjUtODM3My05ODIyZWFmZWRkZmQ",
+    "isModerator": false,
+    "isMonitor": false,
+    "isRoomHidden": false,
+    "created": "2021-10-09T05:39:46.662Z"
+}
+
+Delete:
+
+{
+  "items": [
+    {
+      "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL01FTUJFUlNISVAvYWE2ZTQ0NTUtNTNlMy00NmVlLTg1ODItNTkxNDY0YmUxYmQxOjY3ZTMyYTcwLTI4YzItMTFlYy1hMjU1LWFmOTFiZDQ0MjhkNg",
+      "roomId": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vNjdlMzJhNzAtMjhjMi0xMWVjLWEyNTUtYWY5MWJkNDQyOGQ2",
+      "roomType": "group",
+      "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9hYTZlNDQ1NS01M2UzLTQ2ZWUtODU4Mi01OTE0NjRiZTFiZDE",
+      "personEmail": "Hmp25Sjwl@gmail.com",
+      "personDisplayName": "Haidee Paulo",
+      "personOrgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi9mZmU1MGI5Ny0yYjRhLTQ5NjUtODM3My05ODIyZWFmZWRkZmQ",
+      "isModerator": false,
+      "isMonitor": false,
+      "created": "2021-10-09T05:39:46.662Z"
+    }
+  ]
+}
+
+Message:
+
+{
+    "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL01FU1NBR0UvNTJkNGRiYzAtMjhjNi0xMWVjLTk1ZTUtNmRkMmM1YTNmNzhj",
+    "roomId": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vNjdlMzJhNzAtMjhjMi0xMWVjLWEyNTUtYWY5MWJkNDQyOGQ2",
+    "roomType": "group",
+    "text": "I love API",
+    "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS85MWFiMjgzYy04MmIzLTQ2OWItYWM5My1jZDYxNDI4NzFjZDE",
+    "personEmail": "bryllekenji21@gmail.com",
+    "created": "2021-10-09T06:01:19.996Z"
+}
